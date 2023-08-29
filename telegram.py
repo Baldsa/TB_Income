@@ -3,7 +3,7 @@ import sqlite3
 from telebot import types
 
 
-bot = telebot.TeleBot('6524296769:AAGRFxfadYnCs1A_3VqK8MKDD5zM_AOSbUA')
+bot = telebot.TeleBot('')
 category = ''
 val = 0
 flag = 0
