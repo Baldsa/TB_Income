@@ -3,7 +3,7 @@ import sqlite3
 from telebot import types
 import os
 
-bot = telebot.TeleBot("6524296769:AAGRFxfadYnCs1A_3VqK8MKDD5zM_AOSbUA")  # secret
+bot = telebot.TeleBot("")  # secret
 category = ""
 val = 0
 
