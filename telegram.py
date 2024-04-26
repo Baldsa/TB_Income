@@ -4,7 +4,7 @@ from telebot import types
 import os
 
 
-bot = telebot.TeleBot("6524296769:AAGRFxfadYnCs1A_3VqK8MKDD5zM_AOSbUA")
+bot = telebot.TeleBot("6524296769:AAGRFxfadYnCs1A_3VqK8MKDD5zM_AOSbUA")  # secret
 category = ""
 val = 0
 
